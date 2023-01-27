@@ -1,7 +1,9 @@
-# work_products
+# Work Products
 Work products from some freelance jobs that I retained ownership over. The data is rarely my property so the code can't actually be run, but some writeups and graphs are shared along with the code.
 
 # Gate Profile Research
+
+filename: gate_analysis.ipynb
 
 Accelerometers were placed on adolescences' legs as they walked on a treadmille and outside on the ground. This allows us to graph how different parts of their leg move throughout the path of their gate. Analysis was required to smooth and filter out bad data, and then performed to compare signals from right and left legs as well as from indoor to outdoor.
 
